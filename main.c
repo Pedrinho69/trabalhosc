@@ -5,7 +5,7 @@
 #include <string.h>
 #include <time.h>
 
-#define REP 3 // quantidade de repetições para realizar a média
+#define REP 5 // quantidade de repetições para realizar a média
 
 void copia_vetor_struct(struct produto destino[], struct produto origem[],
                         int tam)
